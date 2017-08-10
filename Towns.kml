@@ -654,7 +654,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Ponevezh</name>
+      <name>Ponevezh\nthis is a town</name>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
