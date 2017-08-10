@@ -2,6 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Towns with folders processed</name>
+      <description>Population: </description>
     <Style id="icon-1739-0288D1-labelson">
       <IconStyle>
         <color>ffd18802</color>
@@ -50,6 +51,7 @@
     <Placemark>
       <name>Abel
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -60,6 +62,7 @@
     <Placemark>
       <name>Avant
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -70,6 +73,7 @@
     <Placemark>
       <name>Ushpol
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -80,6 +84,7 @@
     <Placemark>
       <name>Utyan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -90,6 +95,7 @@
     <Placemark>
       <name>Eiragole
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -99,6 +105,7 @@
     </Placemark>
     <Placemark>
       <name>Anushishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -109,6 +116,7 @@
     <Placemark>
       <name>Alite
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -119,6 +127,7 @@
     <Placemark>
       <name>Anushishok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -129,6 +138,7 @@
     <Placemark>
       <name>Anyksht
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -139,6 +149,7 @@
     <Placemark>
       <name>Aran
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -149,6 +160,7 @@
     <Placemark>
       <name>Balbirishok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -159,6 +171,7 @@
     <Placemark>
       <name>Barshtits
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -169,6 +182,7 @@
     <Placemark>
       <name>Betigola
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -179,6 +193,7 @@
     <Placemark>
       <name>Birzh
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -189,6 +204,7 @@
     <Placemark>
       <name>Gudleve
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -198,6 +214,7 @@
     </Placemark>
     <Placemark>
       <name>Garzd</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -208,6 +225,7 @@
     <Placemark>
       <name>Dabeik
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -218,6 +236,7 @@
     <Placemark>
       <name>Dotnove
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -228,6 +247,7 @@
     <Placemark>
       <name>Dusyat
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -238,6 +258,7 @@
     <Placemark>
       <name>Vabolnik
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -248,6 +269,7 @@
     <Placemark>
       <name>Wasiliszki
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -258,6 +280,7 @@
     <Placemark>
       <name>Vorne
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -268,6 +291,7 @@
     <Placemark>
       <name>Vashky
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -278,6 +302,7 @@
     <Placemark>
       <name>Vizhun
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -288,6 +313,7 @@
     <Placemark>
       <name>Vilon
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -298,6 +324,7 @@
     <Placemark>
       <name>Vilkovishk
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -308,6 +335,7 @@
     <Placemark>
       <name>Vilkomir
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -318,6 +346,7 @@
     <Placemark>
       <name>Vilki
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -328,6 +357,7 @@
     <Placemark>
       <name>Vishey
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -338,6 +368,7 @@
     <Placemark>
       <name>Veger
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -348,6 +379,7 @@
     <Placemark>
       <name>Verzhan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -357,6 +389,7 @@
     </Placemark>
     <Placemark>
       <name>Vekshne</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -367,6 +400,7 @@
     <Placemark>
       <name>Virbaln/Verzhbelova
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -376,6 +410,7 @@
     </Placemark>
     <Placemark>
       <name>Zhosle</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -386,6 +421,7 @@
     <Placemark>
       <name>Zheiml
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -396,6 +432,7 @@
     <Placemark>
       <name>Zager
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -405,6 +442,7 @@
     </Placemark>
     <Placemark>
       <name>Zhidik</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -415,6 +453,7 @@
     <Placemark>
       <name>Tevyan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -425,6 +464,7 @@
     <Placemark>
       <name>Taragin
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -435,6 +475,7 @@
     <Placemark>
       <name>Telz
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -444,6 +485,7 @@
     </Placemark>
     <Placemark>
       <name>Trashkun</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -453,6 +495,7 @@
     </Placemark>
     <Placemark>
       <name>Yanishkel</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -463,6 +506,7 @@
     <Placemark>
       <name>Yaneve
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -472,6 +516,7 @@
     </Placemark>
     <Placemark>
       <name>Yurburg</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -482,6 +527,7 @@
     <Placemark>
       <name>Yelok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -492,6 +538,7 @@
     <Placemark>
       <name>Lazdey
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -502,6 +549,7 @@
     <Placemark>
       <name>Lyubave
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -512,6 +560,7 @@
     <Placemark>
       <name>Laizeve
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -522,6 +571,7 @@
     <Placemark>
       <name>Leypun
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -532,6 +582,7 @@
     <Placemark>
       <name>Mazheik
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -541,6 +592,7 @@
     </Placemark>
     <Placemark>
       <name>Maryampol</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -550,6 +602,7 @@
     </Placemark>
     <Placemark>
       <name>Salat</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -559,6 +612,7 @@
     </Placemark>
     <Placemark>
       <name>Sapizishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -569,6 +623,7 @@
     <Placemark>
       <name>Sudarg
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -579,6 +634,7 @@
     <Placemark>
       <name>Siad
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -588,6 +644,7 @@
     </Placemark>
     <Placemark>
       <name>Serey</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -597,6 +654,7 @@
     </Placemark>
     <Placemark>
       <name>Srednik</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -607,8 +665,8 @@
     <Placemark>
       <name>Skopishok
 </name>
-      <description>folders 701-2, 1318</description>
-      <styleUrl>#icon-1739-0288D1-labelson</styleUrl>
+      <description>Population: </description>
+            <styleUrl>#icon-1739-0288D1-labelson</styleUrl>
       <Point>
         <coordinates>
           25.2024959,55.894572,0
@@ -618,6 +676,7 @@
     <Placemark>
       <name>Ezhereni
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -628,6 +687,7 @@
     <Placemark>
       <name>Pogir
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -637,6 +697,7 @@
     </Placemark>
     <Placemark>
       <name>Plungyan</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -646,6 +707,7 @@
     </Placemark>
     <Placemark>
       <name>Ponedel</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -654,7 +716,8 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>Ponevezh\nthis is a town</name>
+      <name>Ponevezh</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -665,6 +728,7 @@
     <Placemark>
       <name>Panemun
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -674,6 +738,7 @@
     </Placemark>
     <Placemark>
       <name>Panemunek</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -683,6 +748,7 @@
     </Placemark>
     <Placemark>
       <name>Posvol</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -692,6 +758,7 @@
     </Placemark>
     <Placemark>
       <name>Pashvitin</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -702,6 +769,7 @@
     <Placemark>
       <name>Pumpyan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -712,6 +780,7 @@
     <Placemark>
       <name>Pilvishok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -721,8 +790,8 @@
     </Placemark>
     <Placemark>
       <name>Pikeln</name>
-      <description>Folders 500-514</description>
-      <styleUrl>#icon-1739-0288D1-labelson</styleUrl>
+      <description>Population: </description>
+            <styleUrl>#icon-1739-0288D1-labelson</styleUrl>
       <Point>
         <coordinates>
           22.1101069,56.4169339,0
@@ -731,6 +800,7 @@
     </Placemark>
     <Placemark>
       <name>Pren</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -741,6 +811,7 @@
     <Placemark>
       <name>Kovne
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -751,6 +822,7 @@
     <Placemark>
       <name>Kalvarye
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -760,6 +832,7 @@
     </Placemark>
     <Placemark>
       <name>Koshedar</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -770,6 +843,7 @@
     <Placemark>
       <name>Kul
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -780,6 +854,7 @@
     <Placemark>
       <name>Kupishok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -789,6 +864,7 @@
     </Placemark>
     <Placemark>
       <name>Kurshan</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -798,6 +874,7 @@
     </Placemark>
     <Placemark>
       <name>Kibart</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -807,6 +884,7 @@
     </Placemark>
     <Placemark>
       <name>Keidan</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -816,6 +894,7 @@
     </Placemark>
     <Placemark>
       <name>Klikol</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -825,6 +904,7 @@
     </Placemark>
     <Placemark>
       <name>Kelm</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -834,6 +914,7 @@
     </Placemark>
     <Placemark>
       <name>Krozh</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -844,6 +925,7 @@
     <Placemark>
       <name>Krok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -853,6 +935,7 @@
     </Placemark>
     <Placemark>
       <name>Kretinge</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -862,6 +945,7 @@
     </Placemark>
     <Placemark>
       <name>Rogeve</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -871,6 +955,7 @@
     </Placemark>
     <Placemark>
       <name>Radvilishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -880,6 +965,7 @@
     </Placemark>
     <Placemark>
       <name>Nay-Radvilishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -889,6 +975,7 @@
     </Placemark>
     <Placemark>
       <name>Remigole</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -898,6 +985,7 @@
     </Placemark>
     <Placemark>
       <name>Rasein</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -907,6 +995,7 @@
     </Placemark>
     <Placemark>
       <name>Rakishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -916,6 +1005,7 @@
     </Placemark>
     <Placemark>
       <name>Rudamin</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -925,6 +1015,7 @@
     </Placemark>
     <Placemark>
       <name>Rumshishok</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -934,6 +1025,7 @@
     </Placemark>
     <Placemark>
       <name>Shadeve</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -943,6 +1035,7 @@
     </Placemark>
     <Placemark>
       <name>Shavl</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -953,6 +1046,7 @@
     <Placemark>
       <name>Shukyan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -963,6 +1057,7 @@
     <Placemark>
       <name>Svadushch
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -973,6 +1068,7 @@
     <Placemark>
       <name>Suvainishok
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -983,6 +1079,7 @@
     <Placemark>
       <name>Shavlan
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -992,6 +1089,7 @@
     </Placemark>
     <Placemark>
       <name>Shidleve</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1002,6 +1100,7 @@
     <Placemark>
       <name>Sheshik
 </name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1011,6 +1110,7 @@
     </Placemark>
     <Placemark>
       <name>Shkud</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1020,6 +1120,7 @@
     </Placemark>
     <Placemark>
       <name>Shkumian</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0288D1-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1029,6 +1130,7 @@
     </Placemark>
     <Placemark>
       <name>Shvekshna</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0F9D58-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1038,6 +1140,7 @@
     </Placemark>
     <Placemark>
       <name>Kalatove</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0F9D58-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1047,6 +1150,7 @@
     </Placemark>
     <Placemark>
       <name>Koptsiava</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-0F9D58-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>
@@ -1056,6 +1160,7 @@
     </Placemark>
     <Placemark>
       <name>Dabeik</name>
+      <description>Population: </description>
       <styleUrl>#icon-1739-F57C00-labelson-nodesc</styleUrl>
       <Point>
         <coordinates>

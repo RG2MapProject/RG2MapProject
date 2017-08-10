@@ -52,6 +52,8 @@
                 var content = event.featureData.infoWindowHtml;
                 var testimonial = document.getElementById('capture');
                 testimonial.innerHTML = content;
+                var text = event.featureData.description;
+                showInContentWindow(text);
               });
             }
     </script>
