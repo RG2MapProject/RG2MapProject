@@ -1,126 +1,126 @@
 Obeliai (Abel/אַבעל)
-    2
+2
 Alanta (Avante/אַוואָנטע)
-    1
+1
 Užpaliai (Ushpol/אוזשפּאָל)
-    5
+5
 Utena (Utyan/אוטיאַן)
-    2
+2
 Ariogala (Eiragole/אײראַגאָלע)
-    10
+10
 Eišiškės (Eishishak/איישישאָק/Ejszyszki)
-    1
+1
 Onuškis (Anushishok/אַנישישאָק)
-    6
+6
 Alytus (Alite/אַליטע)
-    1
+1
 Anykščiai (Aniksht/אַניקשט)
-    24
+24
 Varėna (Aran/אַראַן)
-    1
+1
 Balbieriškis (Balbirishok/באַלבירישאָק)
-    5
+5
 Barstyčiai (Barshits/באַרשטיץ)
-    2
+2
 Betygala (Betigole/בעטיגאָלע)
-    9
+9
 Biržai (Birzh/בירזש)
-    24
+24
 Garliava (Gudleve/גודלעווע)
-    1
+1
 Gargždai (Gorzd/גורזד)
-    9
+9
 Darsūniškis (Dabeik/)
-    1
+1
 Dotnuva (Dotneve/דאַטנעווע)
-    1
+1
 Dusetos (Dusyat/דוסיאַט)
-    5
+5
 Vabalninkas (Vabolnik/וואַבאָלניק)
-    17
+17
 Vasiliški (Vasilishok/וואַסילישאָק/Wasiliszki)
-    1
+1
 Varniai (Vorne/וואָרנע)
-    13
+13
 Vaškai (Vashky/וואַשקי)
-    4
+4
 Vyžuonos (Vizhun/וויזשון)
-    10
+10
 Veliuna (Vilon/ווילאָן)
-    4
+4
 Vilkaviškis (Vilkovishk/װילקאָװישק)
-    92
+92
 Ukmergė (Vilkomir/װילקאָמיר)
-    40
+40
 Vilkija (Vilki/ווילקי)
-    18
+18
 Veisiejai (Vishey/ווישיי)
-    6
+6
 Vegeriai (וועגער)
-    2
+2
 Veiviržėnai (Varzhan/וואַרזשאַן)
-    1
+1
 Viekšniai (Vekshne/וועקשנע)
-    17
+17
 Virbalis (Virbaln/ווירבאַלן)
-    15
+15
 Žasliai (Zhosle/זאָסלע)
-    1
+1
 Žeimelis (Zheiml/זײמל)
-    34
+34
 Žagarė (Zhagar/זאַגער)
-    16
+16
 Židikai (Zhidik/זשידיק)
-    3
+3
 Taujėnai (Tevyan/טאַוויאַן)
-    3
+3
 Tauragnai (Taragin/טאָרטשין)
-    2
+2
 Telšiai (Telz/טעלז)
-    6
+6
 Troškūnai (Trashkun/טראַשקון)
-    7
+7
 Joniškėlis (Yanishkel/יאַנישקעל)
-    5
+5
 Jonava (Yanove/יאַנעווע)
-    30
+30
 Jurbarkas (Yurburg/יורבורג)
-    3
+3
 Ylakiai (Yelok/יעלאָק)
-    7
+7
 Lazdijai (Lazdei/לאַזדיי)
-    24
+24
 Liubavas (Lyubave/ליובאַווע)
-    1
+1
 Laižuva (Laizeve/לײַזעווע)
-    8
+8
 Leipalingis (Leipun/לייפּון)
-    4
+4
 Mažeikiai (Mazheik/מאַזשייק)
-    31
+31
 Marijampolė (Mariampol/מאַריאַמפּאָל)
-    74
+74
 Saločiai (Salat/סאַלאַט)
-    11
+11
 Zapyškis (Sapizishok/סאַפּיזישאָק)
-    3
+3
 Sudargas (Sudarg/סודאַרג)
-    2
+2
 Seda (Siad/סיאַד)
-    10
+10
 Seirijai (Serei/סעריי)
-    15
+15
 Seredžius (Srednik/סרעדניק)
-    1
+1
 Skapiškis (Skopishok/סקאָפּישאָק)
-    2
+2
 Zarasai (Ezhereni/עזערעני)
-    11
+11
 Pagiriai (Pogir/פּאַגיר)
-    2
+2
 Plungė (Plungyan/פּלונגיאַן)
-    12
+12
 Pandėlys (Ponedel/פּאָנעדעל)
-    18
+18
 Panevėžys (Ponevezh/פּאָנעװעזש)
-    19
+19
