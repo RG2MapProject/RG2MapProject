@@ -32,3 +32,19 @@ Towns.kml
 More information on Google Maps API/KML Files:
 https://developers.google.com/kml/documentation/kml_tut
 https://developers.google.com/maps/documentation/javascript/kmllayer
+
+Next steps:
+  Figure out the icons and description display
+  Make a list of layers - potential options:
+    Political
+    Cultural
+    Economic
+    Photographic
+    Religious
+    Locations of Aid Organizations
+    Town Age
+  Investigate Omeka and see how the different layers of markers and descriptions
+    can best be integrated into one webpage
+  Determine what formatting descriptions should have
+  Get desired information from collection
+  Build webpage
